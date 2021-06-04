@@ -1,6 +1,6 @@
 # mlocate
 
-1. City Selection
+**1. City Selection**
 
 1.1 Data were downloaded from census:
 
@@ -12,5 +12,5 @@
 
 6 cities were selected by authors through comparing the population size, demographical distribution, and influences of hurricanes in the study periods.
 
-2. Data Preprocess
-3. Variable Development
+**2. Data Preprocess**
+**3. Variable Development**
