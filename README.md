@@ -1,6 +1,7 @@
 # mlocate
 
 1. City Selection
+
 1.1 Data were downloaded from census:
 •	2017 Population Estimates.xlsx 
 	was downloaded from US Census data (https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html). 4 state (NC,SC, GA, VA, TN)
