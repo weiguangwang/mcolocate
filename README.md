@@ -36,3 +36,26 @@ If one user stays at one location for more than 24 hours, this will be treated a
 **3. Variable Development**
 
 
+python addPOI_v0.py
+python id_date_convert_v1.py	##irrelavant cols are removed, such as the venue category
+python calFamilySize.py
+python selectOnlyFamily.py
+python hourly_v1.py	##big change
+python add_family_together_v1.py
+python add_block.py
+
+python merge_hourly.py	##multiple records for same user-day-hour will be combined.
+python merge_cities.py
+
+python prepareBlockData.py
+python bPaper_addBlockData.py
+
+
+
+
+
+
+
+
+
+
