@@ -13,4 +13,5 @@
 6 cities were selected by authors through comparing the population size, demographical distribution, and influences of hurricanes in the study periods.
 
 **2. Data Preprocess**
+
 **3. Variable Development**
