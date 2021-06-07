@@ -51,6 +51,8 @@ python prepareBlockData.py
 python bPaper_addBlockData.py
 
 
+Descriptive results
+![Alt text](weiguangwang/mcolocate/fig/fig1.jpg?raw=true "Title")
 
 
 
