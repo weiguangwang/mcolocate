@@ -55,9 +55,11 @@ python bPaper_addBlockData.py
 
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig1.png)
 Fig. 1. Family Colocation over Time
+ <br /> 
+ 
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig2.png)
 Fig. 1. Family Colocation over Time
-![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs1.png)
+![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS1.png)
 Fig. 1. Family Colocation over Time
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs2.png)
 Fig. 1. Family Colocation over Time
