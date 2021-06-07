@@ -56,14 +56,39 @@ python bPaper_addBlockData.py
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig1.png)
 Fig. 1. Family Colocation over Time
  <br /> 
+ <br /> 
+ <br /> 
  
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig2.png)
-Fig. 1. Family Colocation over Time
+Fig. 2. Shift in Family Colocation across CBGs (Left) of Different Median Household Income (Right) at Wilmington
+ <br /> 
+ <br /> 
+ <br /> 
+ 
 ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS1.png)
-Fig. 1. Family Colocation over Time
-![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs2.png)
-Fig. 1. Family Colocation over Time
-
+Fig. S1. Family Colocation (Measured by Distance from Home) over Time
+ <br /> 
+ <br /> 
+ <br /> 
+ 
+ ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs2.png)
+Fig. S2. Family Colocation over Time by Income
+ <br /> 
+ <br /> 
+ <br /> 
+ 
+ ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs3.png)
+Fig. S3. Family Colocation over Time by Housing Vacancy Rate
+ <br /> 
+ <br /> 
+ <br /> 
+ 
+  ![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs3.png)
+Fig. S4. Family Colocation over Time by % Population Relying on Public Transportation
+ <br /> 
+ <br /> 
+ <br /> 
+ 
 
 
 
