@@ -51,10 +51,16 @@ python prepareBlockData.py
 python bPaper_addBlockData.py
 
 
-Descriptive results
-![Alt text](weiguangwang/mcolocate/fig/fig1.png?raw=true "Title")
-![alt text](https://github.com/weiguangwang/mcolocate/blob/fig/fig1.png?raw=true)
-![alt text](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig1.png)
+**3. Descriptive Results**
+
+![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig1.png)
+Fig. 1. Family Colocation over Time
+![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Fig2.png)
+Fig. 1. Family Colocation over Time
+![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs1.png)
+Fig. 1. Family Colocation over Time
+![Family Colocation over Time](https://github.com/weiguangwang/mcolocate/blob/main/fig/Figs2.png)
+Fig. 1. Family Colocation over Time
 
 
 
