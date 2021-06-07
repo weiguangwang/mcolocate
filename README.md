@@ -52,8 +52,8 @@ python bPaper_addBlockData.py
 
 
 Descriptive results
-![Alt text](weiguangwang/mcolocate/fig/fig1.jpg?raw=true "Title")
-
+![Alt text](weiguangwang/mcolocate/fig/fig1.png?raw=true "Title")
+![alt text](https://github.com/weiguangwang/mcolocate/blob/fig/fig1.png?raw=true)
 
 
 
