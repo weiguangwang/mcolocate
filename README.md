@@ -71,19 +71,19 @@ Fig. S1. Family Colocation (Measured by Distance from Home) over Time
  <br /> 
  <br /> 
  
- ![Fig. S2](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS2.png)
+ ![Fig. S2](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS3.png)
 Fig. S2. Family Colocation over Time by Income
  <br /> 
  <br /> 
  <br /> 
  
- ![Fig. S3](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS3.png)
+ ![Fig. S3](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS4.png)
 Fig. S3. Family Colocation over Time by Housing Vacancy Rate
  <br /> 
  <br /> 
  <br /> 
  
-  ![Fig. S4](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS4.png)
+  ![Fig. S4](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS5.png)
 Fig. S4. Family Colocation over Time by % Population Relying on Public Transportation
  <br /> 
  <br /> 
