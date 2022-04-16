@@ -77,13 +77,13 @@ Fig. S2. Family Colocation over Time by Income
  <br /> 
  <br /> 
  
- ![Fig. S3](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS4.png)
+ ![Fig. S3](https://github.com/weiguangwang/mcolocate/blob/main/fig/SI_FigS3.png)
 Fig. S3. Difference-in-Differences Model
  <br /> 
  <br /> 
  <br /> 
  
-  ![Fig. S4](https://github.com/weiguangwang/mcolocate/blob/main/fig/FigS5.png)
+  ![Fig. S4](https://github.com/weiguangwang/mcolocate/blob/main/fig/SI_FigS4.png)
 Fig. S4. Unemployment Rate of Wilmington, NC.
  <br /> 
  <br /> 
